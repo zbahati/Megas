@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family:  'cambria', serif;
+    overflow-x: none;
+}
+
+:root{
+    --black:black;
+    --blue:rgb(4, 4, 94);
+    --white:white;
+    --gray:gray;  
+}
+a{
+    text-decoration: none;
+}
+button{
+    color:var(--white);
+
+}
+
